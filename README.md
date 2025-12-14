@@ -8,11 +8,11 @@ Dashboards were created using Excel, Power BI, and Tableau, and insights were va
 
 
 # Business Objective
-1. Analyze total orders and revenue performance
-2. Identify top-performing cities and restaurants
-3. Understand customer ordering behavior
-4. Track order and revenue trends over time
-5. Calculate key business KPIs for decision-making
+1. Analyze total orders and revenue performance.
+2. Identify top-performing cities and restaurants.
+3. Understand customer ordering behavior.
+4. Track order and revenue trends over time.
+5. Calculate key business KPIs for decision-making.
 
 
 # Tools & Technologies
