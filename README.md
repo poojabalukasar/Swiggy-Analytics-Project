@@ -52,6 +52,7 @@ Average Delivery Time
 # Dashboards Sreenshorts
 
 # 1 . Excel Dashboard
+![Excel Dashboard](Screenshots/swiggy_Excel_Dashboard1.png)
 
 
 
