@@ -23,15 +23,15 @@ Dashboards were created using Excel, Power BI, and Tableau, and insights were va
 
 
 # Key KPIs
-Total Orders 
-Total Revenue 
-Total Customers 
-Top Performing Restaurants
-Order Cancellation Rate
-Active Delivery Agents 
-Top Food Categories 
-Peak Order Hours
-Average Delivery Time
+Total Orders, 
+Total Revenue, 
+Total Customers, 
+Top Performing Restaurants,
+Order Cancellation Rate,
+Active Delivery Agents, 
+Top Food Categories, 
+Peak Order Hours,
+Average Delivery Time.
 
 
 # Dashboards 
