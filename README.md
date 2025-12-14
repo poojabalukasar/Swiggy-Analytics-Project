@@ -15,7 +15,7 @@ Dashboards were created using Excel, Power BI, and Tableau, and insights were va
 5. Calculate key business KPIs for decision-making.
 
 
-# Tools & Technologies
+# Tools ANd Technologies
 # 1. Excel: Data cleaning, pivot tables, KPI calculations, and dashboard creation
 # 2. SQL: Data querying, joins, aggregations
 # 3. Power BI: Interactive dashboards, DAX measures, data modeling
