@@ -49,13 +49,26 @@ Average Delivery Time
 
 
 
-# Dashboards Sreenshorts
+## 📸 Dashboard Screenshots
 
-# 1 . Excel Dashboard
+### Excel Dashboard
 ![Excel Dashboard](Swiggy_Analytics_Project/Screenshots/swiggy_Excel_Dashboard1.png)
+
 
 ![Excel Dashboard](Swiggy_Analytics_Project/Screenshots/swiggy_Excel_Dashboard2.png)
 
+### Power BI Dashboard
+![Power BI Dashboard](Swiggy_Analytics_Project/Screenshots/swiggy_PowerBI_Dashboard1.jpeg)
+
+
+![Power BI Dashboard](Swiggy_Analytics_Project/Screenshots/Swiggy_PowerBI_Dashboard2.jpeg)
+
+
+![Power BI Dashboard](Swiggy_Analytics_Project/Screenshots/Swiggy_PowerBI_Dashboard3.jpeg)
+
+
+### Tableau Dashboard
+![Tableau Dashboard](Swiggy_Analytics_Project/Screenshots/swiggy_Tableau_Dashboard.png)
 
 
 
