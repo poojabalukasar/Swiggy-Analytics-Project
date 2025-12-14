@@ -16,10 +16,10 @@ Dashboards were created using Excel, Power BI, and Tableau, and insights were va
 
 
 # Tools & Technologies
-1. # Excel: Data cleaning, pivot tables, KPI calculations, and dashboard creation
-2. # SQL: Data querying, joins, aggregations
-3. # Power BI: Interactive dashboards, DAX measures, data modeling
-4. # Tableau: Visual analytics, filters, and data storytelling
+# 1. Excel: Data cleaning, pivot tables, KPI calculations, and dashboard creation
+# 2. SQL: Data querying, joins, aggregations
+# 3. Power BI: Interactive dashboards, DAX measures, data modeling
+# 4. Tableau: Visual analytics, filters, and data storytelling
 
 
 # Key KPIs
